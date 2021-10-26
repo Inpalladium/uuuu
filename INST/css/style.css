@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.insta__w1 {
+ width: 140px;
+ height: 145px;
+ border-radius: 20%;
+ border: 12px solid white;
+  left: 30px;
+  top: 27px;
+ position: relative;
+
+}
+
+.insta__wrapper {
+  width: 200px;
+  height: 200px;
+  margin: 20px 0 0 20px;
+  border-radius: 26%;
+
+  background: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%); 
+}
+
+.insta__w2 {
+  height: 17px;
+  width: 17px;
+  background-color: white;
+  border-radius: 50%;
+  position: relative;
+  left: 92px;
+  top: 5px;
+}
+
+.insta__w3 {
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+  border: 12px solid white;
+  position: relative;
+  left: 18px;
+}
+
+.insta__wrapper2 {
+  margin-top: 100px;
+  margin-left: 0;
+  background: rgb(201,90,16);
+background: linear-gradient(36deg, rgba(201,90,16,1) 25%, rgba(0,0,0,1) 100%);
+}
+
+.bats {
+  position: absolute;
+  width: 200px;
+  margin-left: 30px;
+  margin-top: 44px;
+}
